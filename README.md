@@ -15,5 +15,5 @@ Dependencias
    
 5. Video
 
-![Videos](resources/videos/video-automacao.mp4)
+- Video da execução está dentro da pasta resources/videos
 
