@@ -18,7 +18,7 @@ programas
    - Video da execução está dentro da pasta resources/videos
 
 
-##  Estrutura projeto
+##  Estrutura do projeto
 
    - Feature -> BDD para a execução da automação, as keywords implementadas na page são chamadas nesta pagina
    - Page Object -> Implementação das keyworks
