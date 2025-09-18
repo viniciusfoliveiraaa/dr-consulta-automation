@@ -7,7 +7,7 @@ programas
 1. Python
 2. Pycharm
 
-## Dependencias
+## Dependências
 
 3. Instale as bibliotecas com o arquivo de requirements
 
