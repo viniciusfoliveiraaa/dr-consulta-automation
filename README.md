@@ -13,7 +13,15 @@ Dependencias
 
    - `pip install -r requirements.txt`
    
-5. Video
+4. Video
 
 - Video da execução está dentro da pasta resources/videos
+
+5. Estrutura projeto
+
+- Feature -> BDD para a execução da automação, as keywords implementadas na page são chamadas nesta pagina
+- Page Object -> Implementação das keyworks
+- Locators -> Mapeamento dos elementos da página
+- resources -> arquivos com dados fixos ou videos
+
 
